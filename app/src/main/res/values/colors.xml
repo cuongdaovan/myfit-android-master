@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#4d4949</color>
+    <color name="gray">#e2dbdb</color>
+    <color name="period_1">#1a39d1</color>
+    <color name="period_2">#17e2e6</color>
+    <color name="period_3">#e1d420</color>
+    <color name="period_4">#d21414</color>
+    <color name="period_5">#21d64e</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="lightyellow">#e3f0b7</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="xanh">#00DDFF</color>
+    <color name="xanhnhat">#B0EDFB</color>
+    <color name="blue">#092282</color>
+</resources>
+

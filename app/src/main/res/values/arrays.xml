@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_giang_vien">
+        <item>tuannq</item>
+        <item>toannt</item>
+        <item>tichpx</item>
+        <item>dungtv</item>
+        <item>thonghv</item>
+        <item>hungnv</item>
+        <item>ducdv</item>
+        <item>haitt</item>
+        <item>lelt</item>
+        <item>namlh</item>
+        <item>cuongnh</item>
+        <item>luyenct</item>
+        <item>phucnt</item>
+        <item>nghianh</item>
+        <item>cuongbm</item>
+        <item>huongnt</item>
+        <item>huanvu</item>
+        <item>tungln</item>
+        <item>dungbn</item>
+        <item>dunglm</item>
+        <item>thuydt</item>
+        <item>bangtqh</item>
+        <item>binhnth</item>
+        <item>dungttn</item>
+        <item>hieutv</item>
+        <item>hoanth</item>
+        <item>nhatp</item>
+        <item>hatp</item>
+        <item>saonk</item>
+        <item>dund</item>
+    </string-array>
+    <string-array name="list_thang">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+</resources>

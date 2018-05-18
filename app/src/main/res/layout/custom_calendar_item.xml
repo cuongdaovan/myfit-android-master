@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/calendar_item_layout"
+    android:layout_width="50dp"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingBottom="2dp"
+    android:paddingEnd="3dp"
+    android:paddingStart="3dp">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:textColor="@color/colorAccent"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/period_1"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:background="@color/period_1"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/period_2"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:background="@color/period_2"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/period_3"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:background="@color/period_3"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/period_4"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:background="@color/period_4"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/period_5"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:background="@color/period_5"
+        android:visibility="invisible" />
+</LinearLayout>
+
