@@ -12,10 +12,7 @@ import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.example.thuca.myfit.fragment.AccountFragment;
-import com.example.thuca.myfit.fragment.HomeFragment;
-import com.example.thuca.myfit.fragment.NotificationFragment;
-import com.example.thuca.myfit.helpers.Debug;
+
 
 import java.util.Date;
 
